@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>WORDS II</string>
+	<string>Total</string>
+	<string>Pole</string>
+	<string>CellPhone</string>
+	<string>Tower</string>
+	<string>2</string>
+	<string>Level</string>
+	<string>Radar</string>
+	<string>Non</string>
+	<string>Testset</string>
+	<string>1</string>
+	<string>Stats</string>
+	<string>Racecar</string>
+	<string>Kayak</string>
+	<string>Civic</string>
+	<string>1</string>
+	<string>Refer</string>
+	<string>Solos</string>
+	<string>Madam</string>
+	<string>Sexes</string>
+	<string>1</string>
+	<string>Real</string>
+	<string>Time</string>
+	<string>Lemon</string>
+	<string>Dime</string>
+	<string>2</string>
+	<string>Under</string>
+	<string>Over</string>
+	<string>Left</string>
+	<string>Right</string>
+	<string>2</string>
+	<string>Repaper</string>
+	<string>Noon</string>
+	<string>Pop</string>
+	<string>Reviver</string>
+	<string>1</string>
+	<string>Amber</string>
+	<string>Honor</string>
+	<string>Tools</string>
+	<string>Forest</string>
+	<string>2</string>
+	<string>Sarah</string>
+	<string>Meghan</string>
+	<string>Bryan</string>
+	<string>Jesse</string>
+	<string>2</string>
+	<string>Anna</string>
+	<string>Bob</string>
+	<string>Hannah</string>
+	<string>Eve</string>
+	<string>1</string>
+	<string>Tap the left button if the words are all palindromes.</string>
+</array>
+</plist>

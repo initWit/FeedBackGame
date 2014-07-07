@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>MONTHS II</string>
+	<string>MAY</string>
+	<string>JUL</string>
+	<string>MAR</string>
+	<string>SEP</string>
+	<string>1</string>
+	<string>JUN</string>
+	<string>AUG</string>
+	<string>DEC</string>
+	<string>OCT</string>
+	<string>2</string>
+	<string>NOV</string>
+	<string>SEP</string>
+	<string>MAY</string>
+	<string>MAR</string>
+	<string>1</string>
+	<string>APR</string>
+	<string>JUN</string>
+	<string>AUG</string>
+	<string>FEB</string>
+	<string>2</string>
+	<string>JAN</string>
+	<string>JUL</string>
+	<string>MAY</string>
+	<string>SEP</string>
+	<string>1</string>
+	<string>SEP</string>
+	<string>MAY</string>
+	<string>JUL</string>
+	<string>MAR</string>
+	<string>1</string>
+	<string>FEB</string>
+	<string>APR</string>
+	<string>JUN</string>
+	<string>AUG</string>
+	<string>2</string>
+	<string>JAN</string>
+	<string>MAR</string>
+	<string>MAY</string>
+	<string>JUL</string>
+	<string>1</string>
+	<string>DEC</string>
+	<string>FEB</string>
+	<string>OCT</string>
+	<string>APR</string>
+	<string>2</string>
+	<string>DEC</string>
+	<string>FEB</string>
+	<string>JUN</string>
+	<string>AUG</string>
+	<string>2</string>
+	<string>Tap the left button for odd numbered months</string>
+</array>
+</plist>

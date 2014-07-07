@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>WORDS</string>
+	<string>Letter</string>
+	<string>Puzzle</string>
+	<string>Clueless</string>
+	<string>Winning</string>
+	<string>1</string>
+	<string>Trust</string>
+	<string>Faith</string>
+	<string>Love</string>
+	<string>Hope</string>
+	<string>2</string>
+	<string>Twitter</string>
+	<string>Facebook</string>
+	<string>Apple</string>
+	<string>Google</string>
+	<string>1</string>
+	<string>Foot</string>
+	<string>Ball</string>
+	<string>Steelers</string>
+	<string>Knee</string>
+	<string>1</string>
+	<string>Ground</string>
+	<string>Spikes</string>
+	<string>Tent</string>
+	<string>Camp</string>
+	<string>2</string>
+	<string>Nine</string>
+	<string>Five</string>
+	<string>Four</string>
+	<string>Six</string>
+	<string>2</string>
+	<string>Nineteen</string>
+	<string>Fifteen</string>
+	<string>Fourteen</string>
+	<string>Sixteen</string>
+	<string>1</string>
+	<string>Chance</string>
+	<string>Luck</string>
+	<string>Fate</string>
+	<string>Random</string>
+	<string>2</string>
+	<string>Blue</string>
+	<string>Red</string>
+	<string>Orange</string>
+	<string>Azure</string>
+	<string>2</string>
+	<string>Yellow</string>
+	<string>Green</string>
+	<string>Maroon</string>
+	<string>Sienna</string>
+	<string>1</string>
+	<string>Tap the left button if all the words have double letters</string>
+</array>
+</plist>

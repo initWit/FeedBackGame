@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>NAMES II</string>
+	<string>John</string>
+	<string>Paul</string>
+	<string>George</string>
+	<string>Ringo</string>
+	<string>1</string>
+	<string>George</string>
+	<string>Ringo</string>
+	<string>Paul</string>
+	<string>John</string>
+	<string>2</string>
+	<string>Paul</string>
+	<string>George</string>
+	<string>John</string>
+	<string>Ringo</string>
+	<string>1</string>
+	<string>Ringo</string>
+	<string>John</string>
+	<string>Paul</string>
+	<string>George</string>
+	<string>2</string>
+	<string>John</string>
+	<string>Ringo</string>
+	<string>Paul</string>
+	<string>George</string>
+	<string>2</string>
+	<string>George</string>
+	<string>Paul</string>
+	<string>Ringo</string>
+	<string>John</string>
+	<string>2</string>
+	<string>John</string>
+	<string>George</string>
+	<string>Paul</string>
+	<string>Ringo</string>
+	<string>1</string>
+	<string>George</string>
+	<string>John</string>
+	<string>Paul</string>
+	<string>Ringo</string>
+	<string>1</string>
+	<string>John</string>
+	<string>Paul</string>
+	<string>Ringo</string>
+	<string>George</string>
+	<string>2</string>
+	<string>Paul</string>
+	<string>John</string>
+	<string>George</string>
+	<string>Ringo</string>
+	<string>1</string>
+	<string>Tap the left button if Ringo is in the 4th spot</string>
+</array>
+</plist>

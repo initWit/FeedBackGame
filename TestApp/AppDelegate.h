@@ -8,8 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
+
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+
+@property (strong, nonatomic) NSNumber *currentLevel; // used for identifying last unlocked level
+
+@property (strong, nonatomic) NSNumber *playThisLevel; //
+
 
 @end

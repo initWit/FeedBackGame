@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>LETTERS</string>
+	<string>A</string>
+	<string>B</string>
+	<string>C</string>
+	<string>D</string>
+	<string>1</string>
+	<string>B</string>
+	<string>C</string>
+	<string>D</string>
+	<string>G</string>
+	<string>2</string>
+	<string>H</string>
+	<string>I</string>
+	<string>J</string>
+	<string>K</string>
+	<string>1</string>
+	<string>T</string>
+	<string>U</string>
+	<string>V</string>
+	<string>X</string>
+	<string>2</string>
+	<string>P</string>
+	<string>R</string>
+	<string>S</string>
+	<string>T</string>
+	<string>2</string>
+	<string>L</string>
+	<string>M</string>
+	<string>N</string>
+	<string>O</string>
+	<string>1</string>
+	<string>K</string>
+	<string>L</string>
+	<string>M</string>
+	<string>O</string>
+	<string>2</string>
+	<string>I</string>
+	<string>J</string>
+	<string>K</string>
+	<string>L</string>
+	<string>1</string>
+	<string>E</string>
+	<string>F</string>
+	<string>G</string>
+	<string>H</string>
+	<string>1</string>
+	<string>O</string>
+	<string>R</string>
+	<string>S</string>
+	<string>T</string>
+	<string>2</string>
+	<string>Tap the left button if all the letters are consecutive</string>
+</array>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>MONTHS</string>
+	<string>MAR</string>
+	<string>DEC</string>
+	<string>JAN</string>
+	<string>AUG</string>
+	<string>1</string>
+	<string>DEC</string>
+	<string>OCT</string>
+	<string>JAN</string>
+	<string>MAY</string>
+	<string>1</string>
+	<string>FEB</string>
+	<string>NOV</string>
+	<string>SEP</string>
+	<string>JUN</string>
+	<string>2</string>
+	<string>AUG</string>
+	<string>JUL</string>
+	<string>JAN</string>
+	<string>OCT</string>
+	<string>1</string>
+	<string>SEP</string>
+	<string>APR</string>
+	<string>FEB</string>
+	<string>NOV</string>
+	<string>2</string>
+	<string>OCT</string>
+	<string>AUG</string>
+	<string>MAY</string>
+	<string>JUL</string>
+	<string>1</string>
+	<string>APR</string>
+	<string>SEP</string>
+	<string>NOV</string>
+	<string>JUN</string>
+	<string>2</string>
+	<string>FEB</string>
+	<string>APR</string>
+	<string>SEP</string>
+	<string>JUN</string>
+	<string>2</string>
+	<string>OCT</string>
+	<string>JUL</string>
+	<string>MAR</string>
+	<string>AUG</string>
+	<string>1</string>
+	<string>FEB</string>
+	<string>JUN</string>
+	<string>SEP</string>
+	<string>NOV</string>
+	<string>2</string>
+	<string>Tap the left button if all the months have 31 Days</string>
+</array>
+</plist>
